@@ -13,4 +13,12 @@
   },
   
   "remoteUser": "node"
+
+  "customizations": {
+		"vscode": {
+			"extensions": [
+				"bruno-api-client.bruno"
+			]
+		}
+	}
 }
